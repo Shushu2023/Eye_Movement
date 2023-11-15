@@ -4,7 +4,7 @@
 ## Description 
  A dynamic web page with two eyes that follow your mouse movement.
  The two buttons located on the left top corner of the page can stop the tracking 
- or start it
+ or start it.
             
  ## How to Run 
  1. create a folder to hold all the project files
