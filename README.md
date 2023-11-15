@@ -16,5 +16,5 @@
  Future impovements can be adding a button to get the eyes crossed and to make the page responsive. 
  
  ## License information
- <a href="https://github.com/Shushu2023/Real_Time_Bus_Tracking/edit/main/LICENSE">click here to view lience information</a>
+ <a href="https://github.com/Shushu2023/Real_Time_Bus_Tracking/edit/main/LICENSE">click here to view license information</a>
  
